@@ -1,0 +1,145 @@
+Home
+Skills
+Work Experience
+Portfolio
+Biography
+University
+National Competition Achievements
+Extra activities
+Chinese
+
+林湘縈，Lin Shiang Ying，1999
+Taiwan, Taoyuan City
+National University of Kaohsiung｜Department of Information Management&emsp;Graduated<br />
+						National Central University | Library Information Division&emsp;Currently employed<br />
+
+<h3>
+							<div id="intro">Hi 😊, I'm Lin. Welcome to my personal website and resume.</div> <br/>
+
+							✓ Objective and logical in observations, adept at listing and solving problems. <br/>
+							✓ Continuous learner, dedicated to self-improvement. <br/>
+							✓ Curious about society, enjoys exploring diverse topics. <br/>
+							
+							Responsible, unafraid of challenges, committed to becoming a better version of myself every day 💪. <br/>
+							#InformationTechnology #FrontEnd #Cybersecurity #SocialMedia
+							
+						</h3><br/>
+						<h4 class="major">
+							Everyone is running their own race, in their own time. Don’t envy them or mock them. <br/>
+							Eeveryone in this world works based on their own time zone. <br/>
+							You are very much on time, and in your TIME ZONE destiny set up for you. <br/>
+							——Author: Anonymous (American)
+							<br/>
+						</h4>	
+
+Skills
+
+Programming Languages
+
+<div class="col-6 col-12-xsmall skill" data-aos="zoom-in">
+							<h3 class="fa-brands fa-microsoft">&emsp;Office</h3>
+									<li>WORD（MOCC Certifications）</li>
+									<li>PowerPoint（MOCC Certifications）</li>
+									<li>EXCEL（MOCC Certifications）</li>
+									<li>Outlook</li>
+									<li>Power BI</li>
+									<li>//Access</li><br/>
+						</div>
+
+	<div class="col-6 col-12-xsmall skill" data-aos="zoom-in">
+							<h3 class="fa-solid fa-photo-film">&emsp;SNS & Video Experience</h3>
+							<div class="row">
+								<div class="col-6 col-12-xsmall skill">
+									<li>FaceBook</li>
+									<li>Instagram</li>
+									<li>YouTube</li>
+								</div>
+								<div class="col-6 col-12-xsmall skill">
+									<li>PhotoShop</li>
+									<li>剪映</li>
+									<li>PowerDirector</li>
+									<li>Premiere (Currently learning)</li>
+									<li>AE (Currently learning)</li><br/>
+								</div>
+							</div>
+						</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
